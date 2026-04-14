@@ -7,7 +7,7 @@
 #### - In the main method, create a ColorPrinter object. Demonstrate its capabilities: first call the print method with a number (e.g., 5), and then call the print method with a string (e.g., "Hello"). Your program should show that the number is printed in the standard format, and the string is printed with color formatting, outputting: "Number: 5" and "Colored string: Hello."
 
 ```java
-public class Solution {
+public class PrintingLauncherApp {
     public static void main(String[] args) {
         // Create a child class object
         ColorPrinter printer = new ColorPrinter();
